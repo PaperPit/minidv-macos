@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+._*
+
+# сборочные артефакты ASFireWire
+build/
+DerivedData/
+*.xcuserstate
+xcuserdata/
+*.dSYM
+*.xcresult
+
+# крупные и личные материалы: не место в репозитории
+*.mov
+*.dv
+*.mp4
+*.m4v
+*.log
+
+# резервные копии, которые делает установщик ярлыка
+*.bak-minidv
+*.bak-dsh-*
