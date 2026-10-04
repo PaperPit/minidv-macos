@@ -3,7 +3,7 @@
 **Sony DCR-PC115E по FireWire/i.LINK: видео и звук в реальном времени — в OBS, Chrome, Zoom.**
 Плюс методика побитовой оцифровки лент на машине, из которой Apple выпилила весь стек FireWire.
 
-[English version →](README.md) · [Подробный гайд (HTML)](docs/guide.ru.html) · [Настройка живого режима](docs/live-setup.md)
+[English version →](README.md) · [Подробный гайд (HTML)](https://paperpit.github.io/minidv-macos/guide.ru.html) · [Настройка живого режима](docs/live-setup.md)
 
 ---
 
@@ -73,7 +73,7 @@ git apply ../minidv-macos/patches/asfw-minidv-live.patch
 ```
 
 Дальше по гайду: отключить SIP, включить developer mode, установить `ASFW.app`, одобрить расширение
-в «Системных настройках» и перезагрузиться. Пошагово — [docs/guide.ru.html](docs/guide.ru.html),
+в «Системных настройках» и перезагрузиться. Пошагово — [docs/guide.ru.html](https://paperpit.github.io/minidv-macos/guide.ru.html),
 разделы 2 и 6.
 
 ### 2. Живой режим

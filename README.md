@@ -3,7 +3,7 @@
 Apple removed the FireWire stack in macOS 26. This is a working setup that (a) archives MiniDV tapes
 bit-exactly and (b) turns the camcorder into a live camera with sound in OBS, Chrome and Zoom.
 
-[Russian version →](README.ru.md) · [Full guide (HTML)](docs/guide.ru.html) · [Live mode setup](docs/live-setup.md)
+[Russian version →](README.ru.md) · [Full guide (HTML)](https://paperpit.github.io/minidv-macos/guide.ru.html) · [Live mode setup](docs/live-setup.md)
 
 ---
 
@@ -76,7 +76,7 @@ git apply ../minidv-macos/patches/asfw-minidv-live.patch
 ```
 
 Then follow the guide: disable SIP, turn on developer mode, install `ASFW.app`, approve the extension in
-System Settings and reboot. Step by step: [docs/guide.ru.html](docs/guide.ru.html), sections 2 and 6.
+System Settings and reboot. Step by step: [docs/guide.ru.html](https://paperpit.github.io/minidv-macos/guide.ru.html), sections 2 and 6.
 
 ### 2. Live mode
 
